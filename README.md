@@ -26,3 +26,11 @@ This project mimics Walmart’s homepage layout with responsive design, navigati
 ---
 
 ## 📂 Project Structure
+
+Walmart-Clone/
+│── index.html # Main HTML file
+│── style.css # CSS file
+│── /images # Folder for images and logos
+│── README.md # Project documentation
+
+
