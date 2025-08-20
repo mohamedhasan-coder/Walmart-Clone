@@ -51,9 +51,9 @@ This project mimics Walmart’s homepage layout with responsive design, navigati
 
 ---
 
-🎯 Future Scope
+## 🎯 Future Scope
 
-⚡ Add JavaScript for:
+### ⚡ Add JavaScript for:
 
 Interactive navigation dropdowns
 
@@ -63,7 +63,7 @@ Search auto-suggestions
 
 Cart item counter & UI updates
 
-🛒 Build a Full Backend with:
+### 🛒 Build a Full Backend with:
 
 Product database (MySQL/MongoDB)
 
@@ -74,10 +74,11 @@ Cart, Wishlist & Checkout system
 Order tracking & payment integration
 
 ☁️ Deploy on Netlify / Vercel (Frontend) + Heroku / Render (Backend)
+
 ---
 
 
-📄 License
+## 📄 License
 
 📌 This project is made for educational purposes only.
 All rights to original design & branding belong to Walmart.
