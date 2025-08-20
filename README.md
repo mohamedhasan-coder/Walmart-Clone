@@ -1,7 +1,5 @@
 # 🛒 Walmart Clone (HTML & CSS)
 
-![Website Animation](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)  
-
 A **frontend-only Walmart Clone** built with **pure HTML and CSS**.  
 This project mimics Walmart’s homepage layout with responsive design, navigation, and styled sections — **no backend, just clean UI!** ✨  
 
