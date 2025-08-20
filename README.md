@@ -35,4 +35,47 @@ This project mimics Walmart’s homepage layout with responsive design, navigati
 ```
 
 
+---
 
+## 🚀 How to Run
+1. Clone this repo:
+   ``` 
+   git clone https://github.com/your-username/walmart-clone.git
+
+
+2. Open the folder:
+```
+    cd walmart-clone
+```
+3. Run the project by opening index.html in your browser 🌍
+
+
+🎯 Future Scope
+
+⚡ Add JavaScript for:
+
+Interactive navigation dropdowns
+
+Dynamic product carousel
+
+Search auto-suggestions
+
+Cart item counter & UI updates
+
+🛒 Build a Full Backend with:
+
+Product database (MySQL/MongoDB)
+
+User authentication (Login/Signup)
+
+Cart, Wishlist & Checkout system
+
+Order tracking & payment integration
+
+☁️ Deploy on Netlify / Vercel (Frontend) + Heroku / Render (Backend)
+
+
+📄 License
+
+📌 This project is made for educational purposes only.
+All rights to original design & branding belong to Walmart.
