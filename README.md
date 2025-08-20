@@ -49,6 +49,7 @@ This project mimics Walmart’s homepage layout with responsive design, navigati
 ```
 3. Run the project by opening index.html in your browser 🌍
 
+---
 
 🎯 Future Scope
 
@@ -73,6 +74,7 @@ Cart, Wishlist & Checkout system
 Order tracking & payment integration
 
 ☁️ Deploy on Netlify / Vercel (Frontend) + Heroku / Render (Backend)
+---
 
 
 📄 License
