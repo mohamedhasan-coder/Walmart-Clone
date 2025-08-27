@@ -40,7 +40,7 @@ This project mimics Walmart’s homepage layout with responsive design, navigati
 ## 🚀 How to Run
 1. Clone this repo:
    ``` 
-   git clone https://github.com/your-username/walmart-clone.git
+   git clone https://github.com/mohamedhasan-coder/walmart-clone.git
 
 
 2. Open the folder:
