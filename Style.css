@@ -1,4 +1,4 @@
-/* imp! CSS RESET */
+4/* imp! CSS RESET */
 
 *{
     margin: 0;
@@ -507,7 +507,6 @@ footer p{
     font-size: var(--font-size-h3);
     padding-bottom: var(--padding-1-25);
 }
-
 /* imp! MEDIA QUERY (TABLET) */
 
 @media screen and (max-width: 991px) {
